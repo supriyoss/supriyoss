@@ -300,16 +300,6 @@ Exploring modern observability practices and the use of automation and AI for op
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=supriyoss&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Profile Summary
 
 <div align="center">
