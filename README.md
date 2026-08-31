@@ -16,7 +16,7 @@ I design and automate **cloud infrastructure, CI/CD platforms, Kubernetes worklo
 
 ## 👨‍💻 About Me
 
-I'm a **DevOps / Platform Engineer with 4+ years of experience** working across cloud infrastructure, CI/CD, container platforms, automation, observability, and production operations.
+I'm a **DevOps / Platform Engineer with 4.5+ years of experience** working across cloud infrastructure, CI/CD, container platforms, automation, observability, and production operations.
 
 My experience includes building and maintaining enterprise-grade platforms using:
 
