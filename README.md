@@ -204,15 +204,15 @@ I regularly use hands-on platforms and technical resources to sharpen my trouble
 [![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge\&labelColor=FFC400\&logo=docker\&logoColor=1A237E\&logoSize=auto)](https://sadservers.com)
 
 <a href="https://killercoda.com/">
-<img src="https://img.shields.io/badge/KillerCoda-Hands--on_Labs-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/KillerCoda-Hands--on%20Labs-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
 </a>
 
 <a href="https://labex.io/">
-<img src="https://img.shields.io/badge/LabEx-Cloud_%26_DevOps_Labs-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/LabEx-Cloud%20%26%20DevOps%20Labs-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
 </a>
 
 <a href="https://k8sgames.com/">
-<img src="https://img.shields.io/badge/K8sGames-Kubernetes_Challenge_Labs-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/K8sGames-Kubernetes%20Challenge%20Labs-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </a>
 
 <a href="https://newsletter.devopscube.com/archive">
@@ -341,11 +341,11 @@ I'm always interested in discussions around:
 <p>
 
 <a href="https://www.linkedin.com/in/supriyoss18/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/supriyoss">
-<img src="https://img.shields.io/badge/GitHub-supriyoss-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
