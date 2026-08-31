@@ -290,13 +290,11 @@ Exploring modern observability practices and the use of automation and AI for op
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=supriyoss&show_icons=true&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyoss&layout=compact&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=supriyoss&hide_border=true" />
 
 </div>
 
