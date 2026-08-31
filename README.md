@@ -2,7 +2,7 @@
 
 <img src="./assets/profile.png" width="150" />
 
-# Hi, I'm Supriyo Sarkar 👋
+# Hi, I'm Supriyo 👋
 
 ### Azure DevOps Engineer | Platform Engineering | Kubernetes | Terraform | Automation
 
