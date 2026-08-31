@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi, I'm Supriyo 👋
+<img src="./assets/profile.png" width="150" style="border-radius:50%" />
 
-### DevOps & Platform Engineer
+# Hi, I'm Supriyo Sarkar 👋
 
-Building reliable cloud platforms, automated delivery pipelines, and scalable infrastructure.
+### Azure DevOps Engineer | Platform Engineering | Kubernetes | Terraform | Automation
 
-`Azure` • `AWS` • `Kubernetes` • `Terraform` • `CI/CD` • `Automation` • `Observability`
+I design and automate **cloud infrastructure, CI/CD platforms, Kubernetes workloads, and enterprise application delivery workflows**.
+
+`Azure` • `Azure DevOps` • `AKS` • `Kubernetes` • `Terraform` • `Ansible` • `Docker` • `Linux`
 
 </div>
 
@@ -14,153 +16,176 @@ Building reliable cloud platforms, automated delivery pipelines, and scalable in
 
 ## 👨‍💻 About Me
 
-I'm a **DevOps / Platform Engineer** focused on designing, automating, and operating modern cloud infrastructure.
+I'm an **Azure DevOps / Platform Engineer with 4.5+ years of experience** working across cloud infrastructure, CI/CD, container platforms, automation, observability, and production operations.
 
-I enjoy solving problems around:
+My experience includes building and maintaining enterprise-grade platforms using **Azure DevOps, Kubernetes/AKS, Terraform, Ansible, Docker, Helm, GitHub Actions, GitLab CI, and Jenkins**.
 
-* ☁️ Cloud infrastructure and platform engineering
-* ☸️ Kubernetes and container orchestration
-* 🏗️ Infrastructure as Code
-* 🚀 CI/CD pipeline engineering
-* 🔐 Cloud security and identity
-* 📊 Monitoring and observability
-* 🤖 AIOps and operational automation
+I enjoy working on problems involving:
 
-I strongly believe that good infrastructure should be **repeatable, observable, secure, and automated**.
+* 🚀 CI/CD architecture and automation
+* ☸️ Kubernetes and AKS platform engineering
+* 🏗️ Infrastructure as Code with Terraform
+* ⚙️ Configuration and deployment automation
+* ☁️ Azure cloud architecture
+* 🔐 DevSecOps and access management
+* 📊 Monitoring, observability, and production troubleshooting
+* 🐧 Linux infrastructure and operational automation
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 What I Work With
 
-### ☁️ Cloud
+### ☁️ Azure
 
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+`AKS` `App Service` `Azure Functions` `Logic Apps` `Key Vault`
+`Azure Container Registry` `Event Grid` `Event Hub` `Service Bus`
 
-### ☸️ Containers & Kubernetes
+### 🚀 CI/CD
 
-<p>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-</p>
+`Azure DevOps` `GitHub Actions` `GitLab CI` `Jenkins`
+
+### ☸️ Containers & Platform Engineering
+
+`Kubernetes` `AKS` `Docker` `Helm` `kubectl`
+
+### 🏗️ Infrastructure & Automation
+
+`Terraform` `Ansible` `ARM` `Pulumi`
+
+### 💻 Scripting & Systems
+
+`Python` `Bash` `PowerShell` `Azure CLI` `Linux / RHEL`
+
+### 📊 Observability & DevSecOps
+
+`Prometheus` `Grafana` `Splunk` `SonarQube` `Checkmarx` `Nexus`
+
+---
+
+## 🔧 What I've Worked On
+
+### 🚀 CI/CD Engineering
+
+Designed and maintained deployment pipelines using:
+
+* Azure DevOps YAML
+* GitHub Actions
+* GitLab CI
+* Jenkins
+
+Worked on automating infrastructure provisioning, application deployment, validations, security checks, approvals, and environment promotions.
+
+---
+
+### ☸️ Kubernetes & Container Platforms
+
+Worked with enterprise applications running on **Kubernetes and Azure Kubernetes Service (AKS)**.
+
+Experience includes:
+
+* Containerizing applications with Docker
+* Kubernetes workload deployment and troubleshooting
+* Helm-based deployments
+* CI/CD integration with Kubernetes
+* Application and platform production support
+
+---
 
 ### 🏗️ Infrastructure as Code
 
-<p>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+Built reusable infrastructure automation using **Terraform** for provisioning and managing Azure infrastructure.
+
+Also worked with:
+
+* ARM templates
+* Pulumi
+* Ansible automation
+
+Automation initiatives have significantly reduced manual infrastructure provisioning and deployment effort.
+
+---
+
+### ⚙️ Enterprise Automation
+
+Built automation around enterprise platforms and middleware including:
+
+`Appian` • `JBoss` • `IBM WebSphere` • `MySQL` • `VMware vSphere`
+
+Worked extensively with **Ansible, Python, Bash, and PowerShell** to reduce repetitive operational work.
+
+---
+
+### 📊 Monitoring & Production Operations
+
+Worked with monitoring and observability platforms including:
+
+`Prometheus` • `Grafana` • `Splunk`
+
+Experience includes:
+
+* Production incident troubleshooting
+* Root Cause Analysis
+* Application and infrastructure monitoring
+* Linux server administration
+* Performance and availability troubleshooting
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
 </p>
 
-### 🚀 CI/CD & DevOps
+---
 
-<p>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
+## 📜 Certifications
 
-### 📊 Observability
+🏅 **Microsoft Certified: Azure Administrator Associate — AZ-104**
 
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
+🏅 **Microsoft Certified: Azure Fundamentals — AZ-900**
 
-### 💻 Scripting & Development
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+🏅 **Microsoft Certified: Azure AI Fundamentals — AI-900**
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-🔹 Designing reusable **Terraform infrastructure modules**
+I'm currently focusing on deepening my expertise in:
 
-🔹 Building scalable **Azure DevOps CI/CD pipelines**
-
-🔹 Working with **AKS and Kubernetes platform engineering**
-
-🔹 Exploring **AWS multi-account infrastructure automation**
-
-🔹 Building **AIOps and observability solutions**
-
-🔹 Automating repetitive infrastructure and operational tasks
+* ☸️ Kubernetes and AKS architecture
+* 🏗️ Platform Engineering
+* 🔐 Cloud and DevSecOps practices
+* 📊 Observability and AIOps
+* 🌐 Multi-cloud infrastructure automation
+* ⚙️ Advanced Terraform and CI/CD patterns
 
 ---
 
-## 🧠 Areas I'm Exploring
-
-```yaml
-currently_learning:
-  - Advanced Kubernetes Troubleshooting
-  - Platform Engineering
-  - AIOps
-  - OpenTelemetry
-  - Cloud Security
-  - Multi-Cloud Architecture
-
-interested_in:
-  - Internal Developer Platforms
-  - GitOps
-  - Infrastructure Automation
-  - Distributed Systems
-  - Cloud Native Architecture
-```
-
----
-
-## ⭐ Featured Projects
-
-### 🤖 AIOps & Intelligent Observability Platform
-
-An experimental platform focused on combining telemetry, automation, and AI to improve incident detection, root-cause analysis, and operational decision-making.
-
-**Tech:** Kubernetes • Prometheus • Grafana • Python • Azure • AI/ML
-
----
-
-### ☸️ Kubernetes Platform Engineering
-
-Cloud-native infrastructure and deployment patterns focused on scalable Kubernetes environments.
-
-**Tech:** AKS • Kubernetes • Helm • Docker • Terraform • Azure DevOps
-
----
-
-### 🏗️ Multi-Cloud Infrastructure Automation
-
-Reusable infrastructure automation for provisioning and managing resources across cloud environments.
-
-**Tech:** Terraform • Azure • AWS • Bash • CI/CD
-
----
-
-### 🚀 DevOps Pipeline Automation
-
-Reusable CI/CD patterns for infrastructure validation, security scanning, approvals, deployments, and environment promotion.
-
-**Tech:** Azure DevOps • GitHub Actions • Terraform • SonarQube • Snyk
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=supriyoss&show_icons=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyoss&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -170,55 +195,36 @@ Reusable CI/CD patterns for infrastructure validation, security scanning, approv
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=supriyoss&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Profile Summary
+## 💡 Engineering Principles
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supriyoss&theme=github_dark" />
-
-</div>
-
----
-
-## 💡 Engineering Philosophy
-
-> **Automate what you repeat.**
-> **Observe what you operate.**
-> **Secure what you deploy.**
-> **Standardize what you scale.**
+> **Automate repetitive work.**
+> **Treat infrastructure as code.**
+> **Build observable systems.**
+> **Design for reliability.**
+> **Keep learning.**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing:
+I'm interested in connecting with engineers working around:
 
-`DevOps` • `Platform Engineering` • `Kubernetes` • `Cloud Architecture` • `Terraform` • `AIOps` • `Automation`
+**DevOps • Platform Engineering • Azure • Kubernetes • Terraform • Cloud Native • Automation • AIOps**
 
-<p>
-
-<a href="https://www.linkedin.com/in/supriyoss18/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:supriyoss18@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-### ☁️ Build. Automate. Observe. Improve.
-
-⭐ Thanks for visiting my profile!
+### ☁️ Automate Infrastructure. Build Platforms. Improve Reliability.
 
 </div>
