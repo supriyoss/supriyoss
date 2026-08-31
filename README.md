@@ -195,11 +195,34 @@ Experience with:
 
 ---
 
-## 🧪 Hands-on Practice
+## 🧪 Hands-on Learning & Community
+
+I regularly use hands-on platforms and technical resources to sharpen my troubleshooting, Kubernetes, Linux, and DevOps skills.
+
+<p>
 
 [![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge\&labelColor=FFC400\&logo=docker\&logoColor=1A237E\&logoSize=auto)](https://sadservers.com)
 
-I use **SadServers** to practice Linux, SRE, and DevOps troubleshooting through real-world failure scenarios.
+<a href="https://killercoda.com/">
+<img src="https://img.shields.io/badge/KillerCoda-Hands--on_Labs-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+</a>
+
+<a href="https://labex.io/">
+<img src="https://img.shields.io/badge/LabEx-Cloud_%26_DevOps_Labs-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
+
+<a href="https://newsletter.devopscube.com/archive">
+<img src="https://img.shields.io/badge/DevOpsCube-Newsletter-F97316?style=for-the-badge&logo=rss&logoColor=white"/>
+</a>
+
+</p>
+
+### Platforms I use
+
+* **SadServers** — Linux, SRE, and DevOps troubleshooting scenarios
+* **KillerCoda** — Interactive Kubernetes, Linux, and cloud-native labs
+* **LabEx** — Hands-on Linux, DevOps, cloud, and infrastructure labs
+* **DevOpsCube Newsletter** — DevOps, Kubernetes, cloud-native, platform engineering, and infrastructure content
 
 ---
 
