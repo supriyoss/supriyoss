@@ -211,6 +211,10 @@ I regularly use hands-on platforms and technical resources to sharpen my trouble
 <img src="https://img.shields.io/badge/LabEx-Cloud_%26_DevOps_Labs-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
 </a>
 
+<a href="https://k8sgames.com/">
+<img src="https://img.shields.io/badge/K8sGames-Kubernetes_Challenge_Labs-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
 <a href="https://newsletter.devopscube.com/archive">
 <img src="https://img.shields.io/badge/DevOpsCube-Newsletter-F97316?style=for-the-badge&logo=rss&logoColor=white"/>
 </a>
@@ -222,6 +226,7 @@ I regularly use hands-on platforms and technical resources to sharpen my trouble
 * **SadServers** — Linux, SRE, and DevOps troubleshooting scenarios
 * **KillerCoda** — Interactive Kubernetes, Linux, and cloud-native labs
 * **LabEx** — Hands-on Linux, DevOps, cloud, and infrastructure labs
+* **K8sGames** — Kubernetes-focused challenge labs and practical troubleshooting exercises
 * **DevOpsCube Newsletter** — DevOps, Kubernetes, cloud-native, platform engineering, and infrastructure content
 
 ---
